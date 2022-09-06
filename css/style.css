@@ -111,9 +111,9 @@ body {
 }
 @media screen and (max-width: 400px){
     .paper {
-        transform: translate(-25%, -40%);
+        transform: translate(-5%, -40%);
         height: 60%;
-        width: 250%;
+        width: 150%;
     }
 }
 
@@ -152,9 +152,9 @@ body {
 
 @media screen and (max-width: 400px){
     .scissors {
-        transform: translate(20%, -40%);
+        transform: translate(5%, -40%);
         height: 60%;
-        width: 250%;
+        width: 150%;
     }
 }
 
@@ -194,7 +194,7 @@ body {
     .rock {
   
         height: 60%;
-        width: 250%;
+        width: 150%;
     }
 }
 
